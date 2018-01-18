@@ -12,9 +12,9 @@
 * 发布简单，只需要导出arr并直接拷贝到/Plugins/Android目录下即可使用，不用对文件做任何修改
 
 
-## 文章对应的IDE版本
-* AndroidStudio 2.1
-* Unity 5.4.3 
+## 文章DEMO对应的IDE版本
+* AndroidStudio 3.0     (2.1亲测通过) 
+* Unity 2017.2          (5.4.3亲测通过) 
  
 
 # 流程
@@ -195,7 +195,7 @@
 
 
 ## DEMO地址
-* 「国外git」GitHub：
+* 「国外git」GitHub：[https://github.com/power-pieces/unity_with_android](https://github.com/power-pieces/unity_with_android)
 * 「国内git」Coding：[https://coding.net/u/jinglikeblue/p/unity_with_android/git](https://coding.net/u/jinglikeblue/p/unity_with_android/git)
 
 ## 结束语
